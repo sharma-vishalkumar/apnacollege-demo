@@ -1,2 +1,3 @@
 # apnacollege-demo
-This is my first repositary
+This is my first Git repositary
+Author-vishal sharma
